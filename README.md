@@ -34,9 +34,8 @@ Setup is simple:
 3. Connect and solder the **XIAO ESP32-S3** to the PCB using pin headers.
 4. Solder a **2.4 GHz ExpressLRS receiver**  
    - Buy a ready-made receiver  
-   - Or build one: https://www.expresslrs.org/hardware/special-targets/diy-rx/
-5. Flash firmware using the awesome **esp-fc guide**:  
-   https://github.com/rtlopez/esp-fc/tree/master?tab=readme-ov-file
+   - Or build one: [DIY Receiver](https://www.expresslrs.org/hardware/special-targets/diy-rx/)
+5. Flash firmware using the awesome **esp-fc guide**: [esp-fc](https://github.com/rtlopez/esp-fc/tree/master?tab=readme-ov-file)
 
 ---
 
@@ -48,10 +47,7 @@ Setup is simple:
 
 ## Firmware
 
-This controller is designed to run:
-
-- **esp-fc**  
-  https://github.com/rtlopez/esp-fc
+This controller is designed to run: **[esp-fc](https://github.com/rtlopez/esp-fc)**
 
 Refer to the esp-fc documentation for:
 - Flashing
@@ -62,12 +58,14 @@ Refer to the esp-fc documentation for:
 ---
 
 ## PCB
-
+- Schematic: [Schematic](docs/Schematic.png)
+- BOM: [BOM](docs/BOM.csv)
+- PCB Gerber: [Garber](docs/Gerber_PCB3_3_2025-12-12.zip)
 ### Front side
 
 ![PCB front](docs/front.png)
 
-### Back side
+### Back side 
 
 ![PCB back](docs/back.png)
 
