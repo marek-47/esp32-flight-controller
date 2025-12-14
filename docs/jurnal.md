@@ -23,7 +23,7 @@
 - Finished working on the schematic and moved on to making the PCB.
 - This turned out to be a big mistake, because I had to redo it a few days later.
 
-![Work in progress](photos/work in progress.png)
+![Work in progress](photos/workinprogress.png)
 
 ---
 
@@ -32,4 +32,4 @@
 - I had to reroute the PCB many times because it was never good enough in earlier versions.
 
 ![Work in progress](photos/workinprogress2.png)
-![Work](versions.png)
+![Work](photos/versions.png)
