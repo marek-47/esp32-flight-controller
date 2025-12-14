@@ -27,10 +27,17 @@
 
 ---
 
-### 5.12.25 – 12.12.25 (time spent: 18.25 hours)
+### 5.12.25 – 10.12.25 (time spent: 18.25 hours)
 - After many versions of the PCB, I finally got it into a usable state.
 - I had to reroute the PCB many times because it was never good enough in earlier versions.
 
 ![Work](versions.png)
 ---
 ![Work in progress](workinprogress2.png)
+---
+### 12.12.25 - 14.12.25 (time spent: 5.25 hours)
+- Created a GitHub repository.
+- Tested several things.
+- Added a BOM.
+- Made 3D renders.
+- Finished additional project documentation.
