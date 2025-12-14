@@ -9,7 +9,7 @@
 ## Controller
 
 ELRS-FLY is intended for small brushed drones and experimental builds.  
-It integrates motor drivers, an IMU, and ExpressLRS compatibility on a single compact PCB.
+It integrates motor drivers, an IMU, and ExpressLRS compatibility on a single PCB.
 
 ---
 
