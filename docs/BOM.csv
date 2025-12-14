@@ -13,4 +13,5 @@ No.,Quantity,Comment,Designator,Footprint,Value,Manufacturer Part,Manufacturer,S
 12,1,S2B-PH-K-S(LF)(SN),U2,CONN-TH_S2B-PH-K-S-LF-SN,,S2B-PH-K-S(LF)(SN),JST,C173752,LCSC,0.0048,
 13,1,MPU-9250,U3,QFN-24_L3.0-W3.0-P0.40-BL-EP,,MPU-9250,TDK InvenSense(应美盛),C71459,LCSC,17.9385,
 14,1,,,,,,,pcb,JLCPCB,8.6,
-,,,,,,,,,,40.5862 + shiping for LCSC components,
+15,1,,,,,,,aliexpress,elrs-reciver,about 10 usd,
+,,,,,,,,,,50.5862 + shiping for LCSC components,
