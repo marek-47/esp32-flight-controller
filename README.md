@@ -58,7 +58,7 @@ Refer to the esp-fc documentation for:
 ---
 
 ## PCB
-- Schematic: [Schematic](docs/Schematic.png)
+- Schematic: ![Schematic](docs/Schematic.png)
 - BOM: [BOM](docs/BOM.csv)
 - PCB Gerber: [Garber](docs/Gerber_PCB3_3_2025-12-12.zip)
 ### Front side
