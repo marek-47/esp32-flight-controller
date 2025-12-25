@@ -59,8 +59,7 @@ Refer to the esp-fc documentation for:
 
 ## PCB
 - Schematic: ![Schematic](docs/Schematic.png)
-- BOM:(Sometimes it is cheaper to buy larger quantities because most components are much cheaper starting from a minimum order of 10.)
-  ![BOM](docs/BOM.csv)
+- BOM: [BOM](docs/BOM.csv)
 - PCB Gerber: [Garber](docs/Gerber_PCB3_3_2025-12-12.zip)
 ### Front side
 
